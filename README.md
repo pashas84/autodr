@@ -1,5 +1,5 @@
 # autodr
-automatic dynamic regression in R, best subsets regression model extraction from regsubsets function(leaps package)
+automatic dynamic regression
 
 autodr - automatic dynamic regression in R
 
